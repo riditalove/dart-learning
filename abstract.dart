@@ -18,3 +18,10 @@ class Car implements Vehicle {
   String color = "pink";
   int speed = 56;
 }
+
+class Bus implements Vehicle {
+  @override
+  String name = "falguni";
+  String color = "ash";
+  int speed = 15;
+}
